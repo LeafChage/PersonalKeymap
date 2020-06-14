@@ -1,0 +1,23 @@
+﻿{
+  "Zero": {
+    "chain": 0,
+    "key": { "keyEvent": 1, "keyCode": 48 },
+    "keymaps": []
+  },
+  "OneAndTwo": {
+    "chain": 1,
+    "key": { "keyEvent": 0, "keyCode": 0 },
+    "keymaps": [
+      { "chain": 0, "key": { "keyEvent": 2, "keyCode": 49 }, "keymaps": [] },
+      { "chain": 0, "key": { "keyEvent": 1, "keyCode": 50 }, "keymaps": [] }
+    ]
+  },
+  "ThreeOrFour": {
+    "chain": 2,
+    "key": { "keyEvent": 0, "keyCode": 0 },
+    "keymaps": [
+      { "chain": 0, "key": { "keyEvent": 2, "keyCode": 51 }, "keymaps": [] },
+      { "chain": 0, "key": { "keyEvent": 2, "keyCode": 52 }, "keymaps": [] }
+    ]
+  }
+}
